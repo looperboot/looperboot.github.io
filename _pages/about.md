@@ -29,5 +29,5 @@ High-fidelity quantum logic gates are essential in quantum computation, and both
   <em>High-fidelity universal quantum gates for hybrid systems via the practical photon scattering</em>,  
  Chinese Physics B, 32(3), 030303 (2023).
 </p>
-[[Chinese Physics B]](https://iopscience.iop.org/article/10.1088/1674-1056/ac8734) [[pdf]]() 
+[[Chinese Physics B]](https://iopscience.iop.org/article/10.1088/1674-1056/ac8734) [[pdf]](files/P2.pdf) 
 
