@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year master’s student in physics at Sun Yat-sen University, supervised by Prof. [Ze-Liang Xiang](https://scholar.google.co.jp/citations?user=akB8u4sAAAAJ&hl=en&oi=ao). My research interests focus on <p><strong>quantum optics</strong> and <strong>quantum information</strong></p>.
+I am a final-year master’s student in physics at Sun Yat-sen University, supervised by Prof. [Ze-Liang Xiang](https://scholar.google.co.jp/citations?user=akB8u4sAAAAJ&hl=en&oi=ao). <p>My research interests focus on <strong>quantum optics</strong> and <strong>quantum information</strong>.</p>
 
 Reasearch
 ======
