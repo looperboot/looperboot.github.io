@@ -14,7 +14,7 @@ Projects
 ## <span style="color:#3498db;">Site-wide configuration</span>
 We investigate superradiant quantum phase transitions in a Dicke trimer model consisting of two types of hoppings, i.e., photon hoppings and atom hoppings. In the superradiant regime, the system can exist in two distinct phases: normal and frustrated superradiant phases, which are governed by both types of hoppings. Particularly, the interplay between these hoppings gives rise to interesting effects, such as triggering superradiance with much lower coupling strengths when both hoppings exhibit the same tendency. In contrast, with opposite tendencies, the competition between hoppings leads to a first-order phase transition between two different superradiant phases with translational symmetry broken. These findings enable the system to undergo a sequence of transitions across three phases by changing the coupling strength. Our work provides deep insights into competing interactions and quantum phase transitions in multi-cavity systems with geometric structures.
 
-[](/images/Project_1)
+[](images/Project_1.png)
 [arxiv](https://github.com/academicpages/academicpages.github.io/tree/master/_talks) [arxiv]()
 
 
