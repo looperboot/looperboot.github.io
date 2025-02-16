@@ -9,7 +9,7 @@ redirect_from:
 
 I am a final-year master’s student in physics at Sun Yat-sen University, supervised by Prof. [Ze-Liang Xiang](https://scholar.google.co.jp/citations?user=akB8u4sAAAAJ&hl=en&oi=ao). My research interests focus on <strong>quantum optics<\strong> and quantum information.
 
-Projects
+Reasearch
 ======
 ## <span style="color:#3498db;">Quantum phase transitions in a Dicke trimer with both photon and atom hoppings</span>
 We investigate superradiant quantum phase transitions in a Dicke trimer model consisting of two types of hoppings, i.e., photon hoppings and atom hoppings. In the superradiant regime, the system can exist in two distinct phases: normal and frustrated superradiant phases, which are governed by both types of hoppings. Particularly, the interplay between these hoppings gives rise to interesting effects, such as triggering superradiance with much lower coupling strengths when both hoppings exhibit the same tendency. In contrast, with opposite tendencies, the competition between hoppings leads to a first-order phase transition between two different superradiant phases with translational symmetry broken. These findings enable the system to undergo a sequence of transitions across three phases by changing the coupling strength. Our work provides deep insights into competing interactions and quantum phase transitions in multi-cavity systems with geometric structures.
