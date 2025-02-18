@@ -18,7 +18,7 @@ We investigate superradiant quantum phase transitions in a Dicke trimer model co
 <p>
   <strong>Jun-Wen Luo</strong>, Bo Wang, Ze-Liang Xiang&#8224;,  
   <em>Quantum phase transitions in a Dicke trimer with both photon and atom hoppings</em>,  
- arXiv:2502.10839.
+ arXiv:2502.10839 (2025).
 </p>
 [[arxiv]](https://arxiv.org/abs/2502.10839v1) [[pdf]](files/2502.10839v1.pdf)
 
