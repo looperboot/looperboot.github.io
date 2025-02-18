@@ -20,7 +20,7 @@ We investigate superradiant quantum phase transitions in a Dicke trimer model co
   <em>Quantum phase transitions in a Dicke trimer with both photon and atom hoppings</em>,  
  arXiv:2502.10839.
 </p>
-[[arxiv]](https://github.com/academicpages/academicpages.github.io/tree/master/_talks) [[pdf]](files/2502.10839v1.pdf)
+[[arxiv]](https://arxiv.org/abs/2502.10839v1) [[pdf]](files/2502.10839v1.pdf)
 
 
 ## <span style="color:#3498db;">High-fidelity universal quantum gates for hybrid systems via the practical photon scattering
