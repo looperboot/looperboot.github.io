@@ -18,9 +18,9 @@ We investigate superradiant quantum phase transitions in a Dicke trimer model co
 <p>
   <strong>Jun-Wen Luo</strong>, Bo Wang, Ze-Liang Xiang&#8224;,  
   <em>Quantum phase transitions in a Dicke trimer with both photon and atom hoppings</em>,  
- Chinese Physics B, 32(3), 030303 (2023).
+ arXiv:2502.10839.
 </p>
-[[arxiv]](https://github.com/academicpages/academicpages.github.io/tree/master/_talks) [[pdf]]()
+[[arxiv]](https://github.com/academicpages/academicpages.github.io/tree/master/_talks) [[pdf]](files/2502.10839v1.pdf)
 
 
 ## <span style="color:#3498db;">High-fidelity universal quantum gates for hybrid systems via the practical photon scattering
